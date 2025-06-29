@@ -1,3 +1,9 @@
 from django.contrib import admin
+from .models import User, Ticket, Status, Comentario
 
-# Register your models here.
+# Exibindo os modelos no admin
+admin.site.register(User)
+admin.site.register(Ticket)
+admin.site.register(Status)
+admin.site.register(Comentario)
+
