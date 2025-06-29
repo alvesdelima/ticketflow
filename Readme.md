@@ -10,7 +10,8 @@ Sistema de gestão de suporte técnico e chamados, desenvolvido com Django REST 
 - Notificações por e-mail
 
 ## 🚧 Status do projeto
-> Em desenvolvimento — iniciando estrutura e escopo (Mês 1, Semana 1)
+> ✅ Iniciando estrutura e escopo (Mês 1, Semana 1)
+> Em desenvolvimento — ✅ iniciando estrutura e escopo (Mês 1, Semana 1)
 
 ## 🧠 Objetivo
 Este projeto foi criado com foco em construção de portfólio para demonstrar domínio em:
