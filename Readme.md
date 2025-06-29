@@ -11,7 +11,7 @@ Sistema de gestão de suporte técnico e chamados, desenvolvido com Django REST 
 
 ## 🚧 Status do projeto
 > ✅ Iniciando estrutura e escopo (Mês 1, Semana 1)
-> Em desenvolvimento — ✅ iniciando estrutura e escopo (Mês 1, Semana 1)
+> Em desenvolvimento — Desenvolvimento Core (Mês 1, Semana 2)
 
 ## 🧠 Objetivo
 Este projeto foi criado com foco em construção de portfólio para demonstrar domínio em:

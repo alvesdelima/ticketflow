@@ -1,10 +1,8 @@
-from django.shortcuts import render
+from rest_framework import viewsets
+from .models import Ticket
+from .serializers import TicketSerializer
 
-# tickets/views.py
-from rest_framework.response import Response
-from rest_framework.decorators import api_view
-
-@api_view(['GET'])
-def test_view(request):
-    return Response({"message": "DRF funcionando! 🚀"})
+class TicketViewSet(viewsets.ModelViewSet):
+    queryset = Ticket.objects.all()  # Pega todos os tickets do banco
+    serializer_class = TicketSerializer  # Usa o serializer que você criou
 
